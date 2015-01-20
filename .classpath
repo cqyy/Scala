@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/eclipse/plugins/org.scala-lang.scala-actors_2.11.4.v20141023-110636-d783face36.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/plugins/org.scala-lang.scala-library_2.11.4.v20141023-110636-d783face36.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/plugins/org.scala-lang.scala-reflect_2.11.4.v20141023-110636-d783face36.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
